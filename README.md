@@ -1,4 +1,4 @@
-### Chat
+### Our chat
 https://gitter.im/rolling-scopes/webinar
 
 ### Upcoming meetup in Krakow:
