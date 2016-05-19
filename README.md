@@ -22,3 +22,14 @@ https://krakow.rollingscopes.com/
 2. [Data Types](https://docs.google.com/presentation/d/1C1ri0y3tVPgbFSgg2u-ohUzZasT6WlPTB-dViNH1Eyo/embed?slide=id.g657064b7a_2_0)
 3. ...
 
+### Links
+- Compatibility tables:
+  - http://kangax.github.io/compat-table/es6/
+  - http://caniuse.com/
+- ES6 to ES5 converter:
+  - https://babeljs.io/repl/
+- Complete JavaScript reference documentation:
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+- Code quality checker:
+  - http://eslint.org/
+
