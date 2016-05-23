@@ -15,7 +15,7 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/get-the-middle-character
      - http://www.codewars.com/kata/partition-on
      - http://www.codewars.com/kata/word-count
-3. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: 20-Jun-2016)
+3. https://github.com/rolling-scopes-school/js-assignments __(Solve as much as you can. Deadline: 20-Jun-2016)__
 4. Codewars 
      - http://www.codewars.com/kata/remove-first-and-last-character-part-two
      - http://www.codewars.com/kata/implement-a-filter-function
