@@ -16,14 +16,15 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/partition-on
      - http://www.codewars.com/kata/word-count
 3. https://github.com/rolling-scopes-school/js-assignments __(Solve as much as you can. Deadline: 20-Jun-2016)__
-4. Codewars 
+4. https://www.codeschool.com/courses/discover-devtools (Short, free online course)
+5. Codewars 
      - http://www.codewars.com/kata/remove-first-and-last-character-part-two
      - http://www.codewars.com/kata/implement-a-filter-function
      - http://www.codewars.com/kata/prefill-an-array
      - http://www.codewars.com/kata/cross-product-of-vectors
      - http://www.codewars.com/kata/pair-zeros
      - http://www.codewars.com/kata/sequence-generator-1
-5. Codewars __*(optional at this time)__
+6. Codewars __*(optional at this time)__
      - http://www.codewars.com/kata/closures-and-scopes
      - http://www.codewars.com/kata/a-function-within-a-function
      - http://www.codewars.com/kata/can-you-keep-a-secret
