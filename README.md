@@ -22,6 +22,7 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/prefill-an-array
      - http://www.codewars.com/kata/cross-product-of-vectors
      - http://www.codewars.com/kata/pair-zeros
+     - http://www.codewars.com/kata/sequence-generator-1
 5. Codewars __*(optional at this time)__
      - http://www.codewars.com/kata/closures-and-scopes
      - http://www.codewars.com/kata/a-function-within-a-function
