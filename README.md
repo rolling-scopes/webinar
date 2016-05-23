@@ -37,9 +37,13 @@ https://krakow.rollingscopes.com/
 ### Slides
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
 2. [Data Types](https://docs.google.com/presentation/d/1C1ri0y3tVPgbFSgg2u-ohUzZasT6WlPTB-dViNH1Eyo/embed?slide=id.g657064b7a_2_0)
-3. ...
+3. [Scope](http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx)
+4. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
 
 ### Links
+-Books
+  - http://speakingjs.com/
+  - http://exploringjs.com/
 - Compatibility tables:
   - http://kangax.github.io/compat-table/es6/
   - http://caniuse.com/
