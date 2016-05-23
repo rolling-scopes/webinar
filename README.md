@@ -41,7 +41,7 @@ https://krakow.rollingscopes.com/
 4. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
 
 ### Links
--Books
+- Books
   - http://speakingjs.com/
   - http://exploringjs.com/
 - Compatibility tables:
