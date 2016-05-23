@@ -15,7 +15,22 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/get-the-middle-character
      - http://www.codewars.com/kata/partition-on
      - http://www.codewars.com/kata/word-count
-3. https://github.com/rolling-scopes-school/js-assignments __*(optional at this time)__
+3. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: 20-Jun-2016)
+4. Codewars 
+     - http://www.codewars.com/kata/remove-first-and-last-character-part-two
+     - http://www.codewars.com/kata/implement-a-filter-function
+     - http://www.codewars.com/kata/prefill-an-array
+     - http://www.codewars.com/kata/cross-product-of-vectors
+     - http://www.codewars.com/kata/pair-zeros
+5. Codewars__*(optional at this time)__
+     - http://www.codewars.com/kata/closures-and-scopes
+     - http://www.codewars.com/kata/a-function-within-a-function
+     - http://www.codewars.com/kata/can-you-keep-a-secret
+     - http://www.codewars.com/kata/using-closures-to-share-class-state
+     - http://www.codewars.com/kata/a-chain-adding-function
+     - http://www.codewars.com/kata/function-cache
+     - http://www.codewars.com/kata/function-composition
+     - http://www.codewars.com/kata/function-composition-1
 
 ### Slides
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
