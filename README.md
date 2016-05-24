@@ -36,19 +36,19 @@ https://krakow.rollingscopes.com/
 
 ### Slides
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
-2. [Data Types](https://docs.google.com/presentation/d/1C1ri0y3tVPgbFSgg2u-ohUzZasT6WlPTB-dViNH1Eyo/embed?slide=id.g657064b7a_2_0)
+2. [Data Types](https://docs.google.com/presentation/d/1C1ri0y3tVPgbFSgg2u-ohUzZasT6WlPTB-dViNH1Eyo/embed?slide=id.g657064b7a_2_0
+3. [Self-education](http://dzmitry-varabei.github.io/front-end-course/self-education.pptx)
 3. [Scope](http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx)
 4. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
 
 ### Links
-- Books
-  - http://speakingjs.com/
-  - http://exploringjs.com/
+- ES6 to ES5 converter:
+  - https://babeljs.io/repl/
+-  ECMAScript parser
+  -  http://esprima.org/
 - Compatibility tables:
   - http://kangax.github.io/compat-table/es6/
   - http://caniuse.com/
-- ES6 to ES5 converter:
-  - https://babeljs.io/repl/
 - Complete JavaScript reference documentation:
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Code quality checker:
