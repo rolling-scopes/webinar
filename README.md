@@ -33,6 +33,7 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/function-cache
      - http://www.codewars.com/kata/function-composition
      - http://www.codewars.com/kata/function-composition-1
+7. [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Slides
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
