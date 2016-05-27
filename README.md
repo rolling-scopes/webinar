@@ -39,6 +39,7 @@ Optional at this time
 7. I love JS __*(optional)__
      - http://www.codewars.com/kata/lazy-evaluation
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
+     - http://www.codewars.com/kata/functional-sql
 
 ### Slides
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
