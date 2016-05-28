@@ -35,6 +35,8 @@ Optional at this time
      - http://www.codewars.com/kata/function-cache
      - http://www.codewars.com/kata/function-composition
      - http://www.codewars.com/kata/function-composition-1
+     - http://www.codewars.com/kata/stringing-me-along
+     - http://www.codewars.com/kata/i-spy
 
 7. I love JS __*(optional)__
      - http://www.codewars.com/kata/lazy-evaluation
