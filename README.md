@@ -6,7 +6,8 @@ https://krakow.rollingscopes.com/
 
 ### Tasks
 1. [Welcome Aboard](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/welcome-aboard.md)
-2. Codewars
+2. [Mastering markdown](https://guides.github.com/features/mastering-markdown/) (Just read! Deadline: __4-Jun-2016__)
+3. Codewars (Deadline: __4-Jun-2016__)
      - http://www.codewars.com/kata/opposite-number
      - http://www.codewars.com/kata/basic-mathematical-operations
      - http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
@@ -20,9 +21,9 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/prefill-an-array
      - http://www.codewars.com/kata/cross-product-of-vectors
      - http://www.codewars.com/kata/sequence-generator-1
-3. https://github.com/rolling-scopes-school/js-assignments __(Solve as much as you can. Deadline: 20-Jun-2016)__
-4. https://www.codeschool.com/courses/discover-devtools (Short, free online course)
-5. [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
+4. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
+5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
+
 
 Optional at this time 
 
