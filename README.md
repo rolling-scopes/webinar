@@ -50,6 +50,8 @@ Optional at this time
 3. [Self-education](http://dzmitry-varabei.github.io/front-end-course/self-education.pptx)
 3. [Scope](http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx)
 4. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
+5. [DOM](http://rolling-scopes.github.io/slides/school/dom/#/)
+6. [DOM Events](http://rolling-scopes.github.io/slides/school/dom-events/#/)
 
 ### Links
 - ES6 to ES5 converter:
