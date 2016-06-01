@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/rolling-scopes/webinar](https://badges.gitter.im/rolling-scopes/webinar.svg)](https://gitter.im/rolling-scopes/webinar)
+
 ### Our chat
 https://gitter.im/rolling-scopes/webinar
 
