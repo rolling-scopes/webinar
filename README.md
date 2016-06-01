@@ -7,7 +7,8 @@ https://krakow.rollingscopes.com/
 ### Tasks
 1. [Welcome Aboard](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/welcome-aboard.md)
 2. [Mastering markdown](https://guides.github.com/features/mastering-markdown/) (Just read! Deadline: __4-Jun-2016__)
-3. Codewars (Deadline: __4-Jun-2016__)
+3. Codewars 
+  - Part I (Deadline: __4-Jun-2016__)
      - http://www.codewars.com/kata/opposite-number
      - http://www.codewars.com/kata/basic-mathematical-operations
      - http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
@@ -21,13 +22,7 @@ https://krakow.rollingscopes.com/
      - http://www.codewars.com/kata/prefill-an-array
      - http://www.codewars.com/kata/cross-product-of-vectors
      - http://www.codewars.com/kata/sequence-generator-1
-4. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
-5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
-
-
-Optional at this time 
-
-6. Codewars 
+  - Part II (Deadline: __11-Jun-2016__)
      - http://www.codewars.com/kata/closures-and-scopes
      - http://www.codewars.com/kata/a-function-within-a-function
      - http://www.codewars.com/kata/can-you-keep-a-secret
@@ -38,8 +33,9 @@ Optional at this time
      - http://www.codewars.com/kata/function-composition-1
      - http://www.codewars.com/kata/stringing-me-along
      - http://www.codewars.com/kata/i-spy
-
-7. I love JS __*(optional)__
+4. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
+5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
+6. __Optional__
      - http://www.codewars.com/kata/lazy-evaluation
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
@@ -48,10 +44,11 @@ Optional at this time
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
 2. [Data Types](https://docs.google.com/presentation/d/1C1ri0y3tVPgbFSgg2u-ohUzZasT6WlPTB-dViNH1Eyo/embed?slide=id.g657064b7a_2_0)
 3. [Self-education](http://dzmitry-varabei.github.io/front-end-course/self-education.pptx)
-3. [Scope](http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx)
-4. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
+4. [Scope](http://dzmitry-varabei.github.io/front-end-course/lecture-3-recap-scope/scope.pptx)
 5. [DOM](http://rolling-scopes.github.io/slides/school/dom/#/)
 6. [DOM Events](http://rolling-scopes.github.io/slides/school/dom-events/#/)
+7. [Functions. Part I](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/)
+8. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
 
 ### Links
 - ES6 to ES5 converter:
