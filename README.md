@@ -6,6 +6,9 @@ https://gitter.im/rolling-scopes/webinar
 ### Upcoming meetup in Krakow:
 https://krakow.rollingscopes.com/
 
+###Feedack
+https://goo.gl/38iB6V
+
 ### Tasks
 1. [Welcome Aboard](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/welcome-aboard.md)
 2. [Mastering markdown](https://guides.github.com/features/mastering-markdown/) (Just read! Deadline: __4-Jun-2016__)
