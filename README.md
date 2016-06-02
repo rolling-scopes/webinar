@@ -41,6 +41,7 @@ https://goo.gl/38iB6V
 4. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
 5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
 6. __Optional__
+     - https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator
      - http://www.codewars.com/kata/lazy-evaluation
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
