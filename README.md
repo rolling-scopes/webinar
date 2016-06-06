@@ -45,6 +45,7 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/lazy-evaluation
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
+     - http://www.codewars.com/kata/can-you-get-the-loop
 
 ### Slides
 1. [JS Overview](http://dzmitry-varabei.github.io/front-end-course/lecture-1-history/#/)
