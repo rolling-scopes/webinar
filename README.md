@@ -44,6 +44,7 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/new-with-apply
      - http://www.codewars.com/kata/extract-nested-object-reference
      - http://www.codewars.com/kata/array-helpers
+     - http://www.codewars.com/kata/replicate-new
 5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
 6. __Optional__
      - https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator (Just watch) 
