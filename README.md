@@ -12,7 +12,8 @@ https://goo.gl/38iB6V
 ### Tasks
 1. [Welcome Aboard](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/welcome-aboard.md)
 2. [Mastering markdown](https://guides.github.com/features/mastering-markdown/) (Just read! Deadline: __4-Jun-2016__)
-3. Codewars 
+3. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
+4. Codewars 
   - Part I (Deadline: __4-Jun-2016__)
      - http://www.codewars.com/kata/opposite-number
      - http://www.codewars.com/kata/basic-mathematical-operations
@@ -38,7 +39,11 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/function-composition-1
      - http://www.codewars.com/kata/stringing-me-along
      - http://www.codewars.com/kata/i-spy
-4. https://www.codeschool.com/courses/discover-devtools (Short, free online course. Deadline: __7-Jun-2016__ )
+  - Part III (Deadline: __15-Jun-2016__)
+     - http://www.codewars.com/kata/santaclausable-interface
+     - http://www.codewars.com/kata/new-with-apply
+     - http://www.codewars.com/kata/extract-nested-object-reference
+     - http://www.codewars.com/kata/array-helpers
 5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
 6. __Optional__
      - https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator (Just watch) 
