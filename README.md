@@ -46,7 +46,7 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
      - http://www.codewars.com/kata/can-you-get-the-loop
-     - 
+7. Make Function
 ```javascript
 function add(x, y) { return x + y; }
 function mul(x, y) { return x * y; }
@@ -58,7 +58,6 @@ Assert(s(mul) == 120);
 var x = make(5)(10)(15);
 Assert(x(add) == 30);
 Assert(x(mul) == 750);
-
 ```
 
 ### Slides
@@ -69,7 +68,8 @@ Assert(x(mul) == 750);
 5. [DOM](http://rolling-scopes.github.io/slides/school/dom/#/)
 6. [DOM Events](http://rolling-scopes.github.io/slides/school/dom-events/#/)
 7. [Functions. Part I](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/)
-8. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
+8. [Functions. Part II](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-part2.html#/)
+9. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
 
 ### Links
 - ES6 to ES5 converter:
