@@ -55,7 +55,8 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
      - http://www.codewars.com/kata/can-you-get-the-loop
-7. Make Function
+7. [Custom jQuery](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/custom-jquery.md)
+8. Make Function
 ```javascript
 function add(x, y) { return x + y; }
 function mul(x, y) { return x * y; }
@@ -79,7 +80,7 @@ Assert(x(mul) == 750);
 7. [Functions. Part I](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/)
 8. [Functions. Part II](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-part2.html#/)
 9. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
-
+ 
 ### Links
 - ES6 to ES5 converter:
   - https://babeljs.io/repl/
