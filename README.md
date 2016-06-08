@@ -46,6 +46,7 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/array-helpers
      - http://www.codewars.com/kata/replicate-new
      - http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
+     - http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
 5. https://github.com/rolling-scopes-school/js-assignments (Solve as much as you can. Deadline: __20-Jun-2016__)
 6. __Optional__
      - https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator (Just watch) 
