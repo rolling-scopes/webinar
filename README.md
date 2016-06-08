@@ -55,7 +55,7 @@ https://goo.gl/38iB6V
      - http://www.codewars.com/kata/tail-recursion-with-trampoline
      - http://www.codewars.com/kata/functional-sql
      - http://www.codewars.com/kata/can-you-get-the-loop
-7. [Custom jQuery](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/custom-jquery.md)
+7. [Custom jQuery](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/custom-jquery.md)( Deadline: __20-Jun-2016__)
 8. Make Function
 ```javascript
 function add(x, y) { return x + y; }
