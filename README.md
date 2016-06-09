@@ -80,6 +80,8 @@ Assert(x(mul) == 750);
 7. [Functions. Part I](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/)
 8. [Functions. Part II](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-part2.html#/)
 9. [Let and const](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html#/)
+10. https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js-intro-test.md
+11. http://pveller.blogspot.com.by/2012/04/functional-javascript.html - one more "make" solution 
  
 ### Links
 - ES6 to ES5 converter:
