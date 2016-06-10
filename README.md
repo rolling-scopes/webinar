@@ -9,9 +9,6 @@ https://krakow.rollingscopes.com/
 ### Score table
 https://docs.google.com/spreadsheets/d/1ETE1frfop19VkJ51jYp-7zzYH8Si5VuuQvWtz22WfoE/edit#gid=0
 
-###Feedack
-https://goo.gl/38iB6V
-
 ### Tasks
 1. [Welcome Aboard](https://github.com/rolling-scopes-school/tasks/blob/webinar/tasks/welcome-aboard.md)
 2. [Mastering markdown](https://guides.github.com/features/mastering-markdown/) (Just read! Deadline: __4-Jun-2016__)
@@ -98,4 +95,8 @@ Assert(x(mul) == 750);
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Code quality checker:
   - http://eslint.org/
+  
+
+###Feedack
+https://goo.gl/38iB6V
 
