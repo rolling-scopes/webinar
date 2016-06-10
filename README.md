@@ -6,6 +6,9 @@ https://gitter.im/rolling-scopes/webinar
 ### Upcoming meetup in Krakow:
 https://krakow.rollingscopes.com/
 
+### Score table
+https://docs.google.com/spreadsheets/d/1ETE1frfop19VkJ51jYp-7zzYH8Si5VuuQvWtz22WfoE/edit#gid=0
+
 ###Feedack
 https://goo.gl/38iB6V
 
