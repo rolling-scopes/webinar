@@ -83,6 +83,10 @@ Assert(x(mul) == 750);
 10. https://github.com/rolling-scopes-school/tasks/blob/master/tasks/js-intro-test.md
 11. http://pveller.blogspot.com.by/2012/04/functional-javascript.html - one more "make" solution 
 12. [Modules in JS. Nodejs intro](http://rolling-scopes.github.io/slides/npm/#/)
+13. [HTTP] https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP
+14. [Ajax] https://github.com/andrei-yanovich/ajax-talk
+15. [es6] http://kirilknysh.github.io/es2015-essentials-talk/#/
+16. [Promise & Fetch & generators] https://github.com/andrei-yanovich/promise-talk
  
 ### Links
 - ES6 to ES5 converter:
