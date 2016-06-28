@@ -101,6 +101,8 @@ Assert(x(mul) == 750);
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 - Code quality checker:
   - http://eslint.org/
+- CSS Triggers, list of operations browser need to perform after specific css property change:
+  - https://csstriggers.com/
   
 
 ###Feedack
